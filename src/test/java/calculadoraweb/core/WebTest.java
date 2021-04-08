@@ -11,7 +11,6 @@ import org.openqa.selenium.WebElement;
 
 /**
  * Exemplo Selenium/Firefox Driver com Junit 5.
- *
  */
 public class WebTest {
     private static WebDriver driver;
